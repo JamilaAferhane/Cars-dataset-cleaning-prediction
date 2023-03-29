@@ -1,4 +1,4 @@
-# Car Dataset with data preprocessing, visualisation, and prediction
+# Car Dataset-data preprocessing
 
 This repository contains a dataset of cars and their characteristics scraped from the Wandaloo website, as well as a Jupyter notebook that includes data preprocessing, visualization, and a model for predicting car prices.
 
